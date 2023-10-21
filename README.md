@@ -1,6 +1,7 @@
 # DoSer
-DoSer is an Educational dosing tool taht helps you see how a simple dos works.
+DoSer is an Educational dosing tool that helps you see how a simple dos works.
 FOR EDUCATIONAL PURPOSES ONLY. IF ANY HARM IS DONE USING THIS TOOL THE CREATOR IS NOT RESPONSIBLE
+###### Created by Nick Siachos
 
 # Make DoSer Better
 
