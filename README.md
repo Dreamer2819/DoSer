@@ -9,8 +9,8 @@ Feel free to make any modifications to my code. If you come up with a good modif
 
 # Installing
 
-chmod +x setup.sh
-./setup.sh
+#### chmod +x setup.sh
+#### ./setup.sh
 This will install hping3 and slowhttptest
 
 # Using DoSer
