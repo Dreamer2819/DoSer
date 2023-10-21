@@ -16,4 +16,4 @@ This will install hping3 and slowhttptest
 # Using DoSer
 
 DoSer can do may things. The first thing you'll want to do is start DoSer by simply running 
-##### ./doser.sh.
+#### ./doser.sh.
